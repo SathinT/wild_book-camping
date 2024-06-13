@@ -1,0 +1,135 @@
+body{
+  background-image: url("assests/background.png");
+  background-size: cover;
+  width: 100%;;
+}
+#banner1{
+  background-image: url("../src/assests/upper banner.png");
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+}
+
+#banner2{
+  background-image: url("../src/assests/banner2.png");
+  background-size: cover;
+  width: 40%;
+  height: 550px;
+}
+#banner3{
+  background-image: url("../src/assests/banner3.png");
+  background-size: cover;
+  width: 550px;
+  height: 275px;
+}
+#banner4{
+  background-image: url("../src/assests/banner4.png");
+  background-size: cover;
+  width: 550px;
+  height: 275px;
+}
+#banner5{
+  background-image: url("../src/assests/banner5.png");
+  background-size: cover;
+  width: 1263px;
+  height: 599px;
+}
+#banner6{
+  background-image: url("../src/assests/store/background.png");
+  background-size: cover;
+  width: 100%;
+  height: 550px;
+}
+#storeBtn1{
+  background-image: url("../src/assests/storeBtn1.png");
+  background-size: cover;
+  width: 533px;
+  height: 247px;
+  margin-top: 60px;
+}
+#storeBtn2{
+  background-image: url("../src/assests/storeBtn2.png");
+  background-size: cover;
+  width: 488px;
+  height: 304px;
+}
+#offer1{
+  background-image: url("../src/assests/offer1.png");
+  background-size: cover;
+  width: 508px;
+  height: 343px;
+}
+#offer2{
+  background-image: url("../src/assests/offer2.png");
+  background-size: cover;
+  width: 508px;
+  height: 343px;
+}
+#cycleAdvertisement{
+  background-image: url("../src/assests/store/cycleAdvertisement.png");
+  background-size: cover;
+  width: 991px;
+  height: 289px;
+}
+#campingGearCat{
+  background-image: url("../src/assests/store/campingGear.png");
+  width: 481px;
+  height: 474px;
+}
+#hikingGearCat{
+  background-image: url("../src/assests/store/HikingGear.png");
+  width: 481px;
+  height: 474px;
+}
+
+#aboutCover{
+  background-image: url("../src/assests/about/mainBg.png");
+  background-size: cover;
+  width: 100%;
+  height: 958px;
+}
+
+#whatpeoplesay{
+  background-image: url("../src/assests/about/g9.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+}
+
+#campingGearbg{
+  background-image: url("../src/assests/store/camping/bg.png");
+  background-size: cover;
+  width: auto;
+  height: 500px;
+}
+#hikingGearbg{
+  background-image: url("../src/assests/store/Hiking/bg.png");
+  background-size: cover;
+  height: 437px;
+  width: auto;
+}
+#cyclesbg{
+  background-image: url("../src/assests/store/Bicycle/bg.png");
+  background-size: cover;
+  width: auto;
+  height: 500px;
+}
+#logBg{
+  background-image: url("../src/assests/about/g10.jpg");
+  background-size: cover;
+  width: 600px;
+  height: 700px;
+}
+#regBg{
+  background-image: url("../src/assests/about/g5.jpg");
+  background-size: cover;
+  width: 600px;
+  height: 700px;
+}
+
+#footer{
+  background-image: url("../src/assests/footerBackground.png");
+  background-size: cover;
+  width: 100%;
+  height: 212px;
+}
